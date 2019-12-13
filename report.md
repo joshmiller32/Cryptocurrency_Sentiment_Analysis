@@ -1,6 +1,6 @@
-# NLP Homework
+# NLP 
 
-In this homework, I have performed sentiment analysis and natural language processing on Bitcoin and Ethereum from news articles pulled from newsapi.  For the sentiment analysis a polarity score was calculated for each news article using the Vader Sentiment Analysis from the NLTK library.  For the natural language processing, the text was tokenized for each coin using the NLTK library.  After tokenization bigram and single word frequencies was calculated.  Next, a word cloud was constructed for each coin to illustrate the most common words found in the news articles.  Finally, a named entity recognition model was built for both coins and the tags were visualized using SpaCy.
+I have performed sentiment analysis and natural language processing on Bitcoin and Ethereum from news articles pulled from newsapi.  For the sentiment analysis a polarity score was calculated for each news article using the Vader Sentiment Analysis from the NLTK library.  For the natural language processing, the text was tokenized for each coin using the NLTK library.  After tokenization bigram and single word frequencies was calculated.  Next, a word cloud was constructed for each coin to illustrate the most common words found in the news articles.  Finally, a named entity recognition model was built for both coins and the tags were visualized using SpaCy.
 
 ## Sentiment Analysis
 
